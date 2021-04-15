@@ -49,6 +49,7 @@ class Complex{
 			}	
 		return s;
 	}
+	// hello quoc da o day
 	 public  Complex sum(Complex c1, Complex c2) {
 		 Complex s=new Complex();
 		 s.re=c1.re+c2.re;
